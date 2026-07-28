@@ -14,6 +14,7 @@ architectural decisions and specifications, not architecture themselves.
 | [DISC-0002](0002-specification-driven-development.md) | Specification-Driven Development | Draft |
 | [DISC-0003](0003-ux-before-api.md) | UX Before API | Draft |
 | [DISC-0004](0004-design-systems-before-screens.md) | Design Systems Before Screens | Draft |
+| [DISC-0005](0005-context-engineering.md) | Context Engineering | Draft |
 
 ## Statuses
 
