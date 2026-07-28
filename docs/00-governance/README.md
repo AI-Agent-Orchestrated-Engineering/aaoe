@@ -12,6 +12,7 @@ Architecture Decision Records themselves are catalogued separately in the
 | ID | Title | Status |
 | --- | --- | --- |
 | [GV-0001](0001-architectural-decision-lifecycle.md) | Architectural Decision Lifecycle | Draft |
+| [GV-0002](0002-traceability-model.md) | Traceability Model | Draft |
 
 ## Statuses
 
