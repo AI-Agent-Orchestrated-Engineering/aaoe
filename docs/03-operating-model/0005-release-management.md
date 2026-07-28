@@ -1,7 +1,14 @@
 # Release Management
 
-- **Status:** Draft (v0.1)
-- **Date:** 2026-07-28
+**Specification ID:** OM-0005
+
+**Domain:** Operating Model
+
+**Version:** 1.0
+
+**Status:** Draft
+
+**Last Updated:** 2026-07-28
 
 ## Purpose
 
@@ -25,7 +32,7 @@ which repository tooling carries that integration out.
 
 ## Inputs
 
-- An approved [Architecture Review](architecture-review.md) outcome.
+- An approved [Architecture Review](0004-architecture-review.md) outcome.
 - An approved integration artifact (e.g. a Pull Request or equivalent).
 - The specifications the approved work is expected to be consistent with.
 - The existing canonical release state the work builds on.
@@ -69,7 +76,7 @@ Before work becomes canonical, the following must hold:
 ## Relationship to the Engineering Lifecycle
 
 Release Management follows Approval and precedes the next Work Order in the
-[Engineering Lifecycle](engineering-lifecycle.md). It is the governance
+[Engineering Lifecycle](0001-engineering-lifecycle.md). It is the governance
 activity that turns an approved result into the new canonical baseline,
 which the next Task then builds on.
 

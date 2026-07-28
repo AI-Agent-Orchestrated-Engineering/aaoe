@@ -31,7 +31,7 @@ and summarizes the latter.
 AAOE engineering work is carried out by four roles: **Human Architect**,
 **Implementation Agent**, **Human Reviewer**, and **Release Manager**. Their
 responsibilities, authority, and interactions are fully defined in
-[Roles & Responsibilities](roles-and-responsibilities.md).
+[Roles & Responsibilities](0003-roles-and-responsibilities.md).
 
 ## Engineering Lifecycle
 
@@ -58,27 +58,27 @@ Next Work Order
 
 The full lifecycle — its guiding principles, stage-by-stage description,
 artifacts, and transition rules — is defined in the
-[Engineering Lifecycle](engineering-lifecycle.md) specification.
+[Engineering Lifecycle](0001-engineering-lifecycle.md) specification.
 
 The **Work Order** is the artifact that carries architectural intent into
 implementation. Its canonical structure and the standard Implementation
 Report it produces are defined in the
-[Work Orders](work-orders.md) specification.
+[Work Orders](0002-work-orders.md) specification.
 
 ## Operating Model Specifications
 
 This README is the entry point into the Operating Model. Detailed behavior
 is defined in the following specifications:
 
-- [Engineering Lifecycle](engineering-lifecycle.md) — the stages, artifacts,
+- [Engineering Lifecycle](0001-engineering-lifecycle.md) — the stages, artifacts,
   and transition rules that govern how work progresses.
-- [Work Orders](work-orders.md) — the canonical interface between
+- [Work Orders](0002-work-orders.md) — the canonical interface between
   Architecture and Implementation.
-- [Roles & Responsibilities](roles-and-responsibilities.md) — who
+- [Roles & Responsibilities](0003-roles-and-responsibilities.md) — who
   participates in the lifecycle, and their responsibilities and authority.
-- [Architecture Review](architecture-review.md) — how completed work is
+- [Architecture Review](0004-architecture-review.md) — how completed work is
   evaluated against approved architectural intent.
-- [Release Management](release-management.md) — how approved work is
+- [Release Management](0005-release-management.md) — how approved work is
   integrated into AAOE's canonical knowledge.
 
 ## Future Specifications
