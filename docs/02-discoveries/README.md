@@ -17,6 +17,7 @@ architectural decisions and specifications, not architecture themselves.
 | [DISC-0005](0005-context-engineering.md) | Context Engineering | Draft |
 | [DISC-0006](0006-shared-specifications-over-shared-code.md) | Shared Specifications Over Shared Code | Draft |
 | [DISC-0007](0007-authentication-authorization-separation.md) | Authentication and Authorization Separation | Draft |
+| [DISC-0008](0008-human-systems-conductor.md) | Human Systems Conductor | Draft |
 
 ## Statuses
 
