@@ -15,6 +15,7 @@ architectural decisions and specifications, not architecture themselves.
 | [DISC-0003](0003-ux-before-api.md) | UX Before API | Draft |
 | [DISC-0004](0004-design-systems-before-screens.md) | Design Systems Before Screens | Draft |
 | [DISC-0005](0005-context-engineering.md) | Context Engineering | Draft |
+| [DISC-0006](0006-shared-specifications-over-shared-code.md) | Shared Specifications Over Shared Code | Draft |
 
 ## Statuses
 
