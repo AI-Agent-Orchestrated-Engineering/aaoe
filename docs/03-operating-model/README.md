@@ -80,6 +80,8 @@ is defined in the following specifications:
   evaluated against approved architectural intent.
 - [Release Management](0005-release-management.md) — how approved work is
   integrated into AAOE's canonical knowledge.
+- [AAOE Meta-Model](0006-aaoe-meta-model.md) — the architectural blueprint
+  consolidating AAOE's specifications into one end-to-end model.
 
 ## Future Specifications
 
