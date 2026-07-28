@@ -1,7 +1,14 @@
 # Work Orders
 
-- **Status:** Draft (v0.1)
-- **Date:** 2026-07-28
+**Specification ID:** OM-0002
+
+**Domain:** Operating Model
+
+**Version:** 1.0
+
+**Status:** Draft
+
+**Last Updated:** 2026-07-28
 
 ## Purpose
 

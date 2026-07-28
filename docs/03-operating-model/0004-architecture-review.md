@@ -1,12 +1,19 @@
 # Architecture Review
 
-- **Status:** Draft (v0.1)
-- **Date:** 2026-07-28
+**Specification ID:** OM-0004
+
+**Domain:** Operating Model
+
+**Version:** 1.0
+
+**Status:** Draft
+
+**Last Updated:** 2026-07-28
 
 ## Purpose
 
 Architecture Review is the stage of the
-[Engineering Lifecycle](engineering-lifecycle.md) at which completed work is
+[Engineering Lifecycle](0001-engineering-lifecycle.md) at which completed work is
 evaluated before it can become part of AAOE's canonical knowledge. It
 protects architectural integrity by validating that implementation
 faithfully realizes approved architectural intent, while leaving the
@@ -24,7 +31,7 @@ Architecture Review is not a code review, style review, or tool review.
 
 ## Inputs
 
-- The approved [Work Order](work-orders.md) that scoped the work.
+- The approved [Work Order](0002-work-orders.md) that scoped the work.
 - The Implementation Report produced in response to it.
 - The architectural intent the Work Order was derived from.
 - The artifacts produced by implementation (e.g. the resulting Pull

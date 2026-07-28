@@ -1,12 +1,19 @@
 # Roles & Responsibilities
 
-- **Status:** Draft (v0.1)
-- **Date:** 2026-07-28
+**Specification ID:** OM-0003
+
+**Domain:** Operating Model
+
+**Version:** 1.0
+
+**Status:** Draft
+
+**Last Updated:** 2026-07-28
 
 ## Purpose
 
 AAOE defines explicit roles so that participation in the
-[Engineering Lifecycle](engineering-lifecycle.md) is traceable rather than
+[Engineering Lifecycle](0001-engineering-lifecycle.md) is traceable rather than
 assumed. Explicit responsibilities, authority, and accountability let the
 lifecycle scale to more contributors and more agents without losing
 governance: anyone reviewing a Task can identify who was responsible for

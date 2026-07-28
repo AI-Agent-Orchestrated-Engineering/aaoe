@@ -1,7 +1,14 @@
 # Engineering Lifecycle
 
-- **Status:** Draft (v0.1)
-- **Date:** 2026-07-28
+**Specification ID:** OM-0001
+
+**Domain:** Operating Model
+
+**Version:** 1.0
+
+**Status:** Draft
+
+**Last Updated:** 2026-07-28
 
 ## Purpose
 
@@ -14,7 +21,7 @@ approval that can be followed, reviewed, and improved over time.
 This specification expands the lifecycle introduced in the
 [Operating Model](README.md#engineering-lifecycle) into its canonical
 stages, artifacts, and transition rules. It relies on the
-[Work Order](work-orders.md) as the artifact that carries architectural
+[Work Order](0002-work-orders.md) as the artifact that carries architectural
 intent into implementation, without redefining it here.
 
 ## Guiding Principles
