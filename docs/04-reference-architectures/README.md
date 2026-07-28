@@ -12,6 +12,7 @@ technologies, vendors, or products.
 | [ARCH-0001](0001-aaoe-platform-reference-architecture.md) | AAOE Platform Reference Architecture | Draft |
 | [ARCH-0002](0002-ai-agent-reference-architecture.md) | AI Agent Reference Architecture | Draft |
 | [ARCH-0003](0003-engineering-knowledge-reference-architecture.md) | Engineering Knowledge Reference Architecture | Draft |
+| [ARCH-0004](0004-governance-reference-architecture.md) | Governance Reference Architecture | Draft |
 
 ## Statuses
 
