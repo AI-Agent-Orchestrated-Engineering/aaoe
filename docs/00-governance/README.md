@@ -1,0 +1,22 @@
+# Governance
+
+Governance holds AAOE's Architecture Decision Records and the
+specifications that govern how AAOE's engineering knowledge is decided,
+recorded, and evolved.
+
+Architecture Decision Records themselves are catalogued separately in the
+[Decision Register](decisions/README.md).
+
+## Specification Register
+
+| ID | Title | Status |
+| --- | --- | --- |
+| [GV-0001](0001-architectural-decision-lifecycle.md) | Architectural Decision Lifecycle | Draft |
+
+## Statuses
+
+- **Draft** — introduced and under refinement.
+- **Accepted** — approved and in effect.
+- **Revised** — accepted, and since incrementally updated.
+- **Superseded** — replaced by a later specification.
+- **Archived** — retained for history; no longer in effect.
