@@ -76,6 +76,10 @@ is defined in the following specifications:
   Architecture and Implementation.
 - [Roles & Responsibilities](roles-and-responsibilities.md) — who
   participates in the lifecycle, and their responsibilities and authority.
+- [Architecture Review](architecture-review.md) — how completed work is
+  evaluated against approved architectural intent.
+- [Release Management](release-management.md) — how approved work is
+  integrated into AAOE's canonical knowledge.
 
 ## Future Specifications
 
