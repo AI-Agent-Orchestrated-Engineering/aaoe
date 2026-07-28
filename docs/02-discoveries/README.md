@@ -9,6 +9,7 @@ architectural decisions and specifications, not architecture themselves.
 
 | ID | Title | Status |
 | --- | --- | --- |
+| [DISC-0000](0000-introduction.md) | Discoveries | Draft |
 | [DISC-0001](0001-discovery-lifecycle.md) | Discovery Lifecycle | Draft |
 
 ## Statuses
