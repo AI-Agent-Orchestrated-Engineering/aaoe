@@ -12,6 +12,7 @@ architectural decisions and specifications, not architecture themselves.
 | [DISC-0000](0000-introduction.md) | Discoveries | Draft |
 | [DISC-0001](0001-discovery-lifecycle.md) | Discovery Lifecycle | Draft |
 | [DISC-0002](0002-specification-driven-development.md) | Specification-Driven Development | Draft |
+| [DISC-0003](0003-ux-before-api.md) | UX Before API | Draft |
 
 ## Statuses
 
