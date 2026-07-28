@@ -10,6 +10,7 @@ technologies, vendors, or products.
 | ID | Title | Status |
 | --- | --- | --- |
 | [ARCH-0001](0001-aaoe-platform-reference-architecture.md) | AAOE Platform Reference Architecture | Draft |
+| [ARCH-0002](0002-ai-agent-reference-architecture.md) | AI Agent Reference Architecture | Draft |
 
 ## Statuses
 
