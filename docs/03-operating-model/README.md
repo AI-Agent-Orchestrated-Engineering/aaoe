@@ -7,13 +7,13 @@
 
 The Operating Model describes how AAOE engineering work is organized: how
 responsibilities are divided between the people and agents involved, and how
-architecture becomes implementation. It gives future specifications a shared
-frame of reference so that detailed workflows, roles, and governance rules
-can be defined consistently rather than improvised per task.
+architecture becomes implementation. It is the entry point into a set of
+detailed specifications; it does not itself define their mechanics.
 
 This document does not restate the decisions already recorded in
-[`docs/00-governance/decisions`](../00-governance/decisions/README.md). It
-builds on them.
+[`docs/00-governance/decisions`](../00-governance/decisions/README.md), nor
+does it duplicate the specifications it points to. It builds on the former
+and summarizes the latter.
 
 ## Core Principles
 
@@ -28,41 +28,58 @@ builds on them.
 
 ## Roles
 
-AAOE work is organized around three high-level roles. Their detailed
-responsibilities, interfaces, and boundaries are left to future
-specifications.
-
-- **Chief Architect** — sets direction, defines work orders, and reviews
-  implementation against architectural intent.
-- **Implementation Agent** — carries out a work order and produces a
-  reviewable result.
-- **Human Orchestrator** — coordinates the flow of work between architecture
-  and implementation, and holds final approval authority.
+AAOE engineering work is carried out by four roles: **Human Architect**,
+**Implementation Agent**, **Human Reviewer**, and **Release Manager**. Their
+responsibilities, authority, and interactions are fully defined in
+[Roles & Responsibilities](roles-and-responsibilities.md).
 
 ## Engineering Lifecycle
 
-At a high level, AAOE engineering work moves through the following stages:
+AAOE engineering work moves through a defined sequence of stages, from
+architectural intent to approved, merged knowledge:
 
 ```text
 Architecture
-  ↓
+        ↓
 Work Order
-  ↓
+        ↓
 Implementation
-  ↓
+        ↓
+Implementation Report
+        ↓
 Architecture Review
-  ↓
+        ↓
 Approval
-  ↓
+        ↓
+Merge
+        ↓
 Next Work Order
 ```
 
-Each stage produces an artifact the next stage can act on, and each cycle
-feeds the next work order rather than terminating the lifecycle.
+The full lifecycle — its guiding principles, stage-by-stage description,
+artifacts, and transition rules — is defined in the
+[Engineering Lifecycle](engineering-lifecycle.md) specification.
+
+The **Work Order** is the artifact that carries architectural intent into
+implementation. Its canonical structure and the standard Implementation
+Report it produces are defined in the
+[Work Orders](work-orders.md) specification.
+
+## Operating Model Specifications
+
+This README is the entry point into the Operating Model. Detailed behavior
+is defined in the following specifications:
+
+- [Engineering Lifecycle](engineering-lifecycle.md) — the stages, artifacts,
+  and transition rules that govern how work progresses.
+- [Work Orders](work-orders.md) — the canonical interface between
+  Architecture and Implementation.
+- [Roles & Responsibilities](roles-and-responsibilities.md) — who
+  participates in the lifecycle, and their responsibilities and authority.
 
 ## Future Specifications
 
-This document establishes the Operating Model at v0.1: an introduction, not a
-complete definition. Detailed roles, workflows, review criteria, and
-governance mechanics will be defined by future specifications that build on
-this foundation.
+This document establishes the Operating Model at v0.1: a map of AAOE's
+engineering specifications, not a complete definition on its own. Additional
+specifications may be introduced as AAOE evolves; this README will continue
+to serve as their entry point.
