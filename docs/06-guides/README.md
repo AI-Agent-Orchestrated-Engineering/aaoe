@@ -15,3 +15,4 @@ rather than defining what is required.
 | [GUIDE-0003](0003-writing-good-work-orders.md) | Writing Good Work Orders |
 | [GUIDE-0004](0004-architecture-reviews.md) | Architecture Reviews |
 | [GUIDE-0005](0005-context-engineering.md) | Context Engineering |
+| [GUIDE-0006](0006-human-ai-collaboration.md) | Human–AI Collaboration |
