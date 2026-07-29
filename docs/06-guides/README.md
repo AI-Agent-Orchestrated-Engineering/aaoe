@@ -16,3 +16,4 @@ rather than defining what is required.
 | [GUIDE-0004](0004-architecture-reviews.md) | Architecture Reviews |
 | [GUIDE-0005](0005-context-engineering.md) | Context Engineering |
 | [GUIDE-0006](0006-human-ai-collaboration.md) | Human–AI Collaboration |
+| [GUIDE-0007](0007-multi-agent-engineering.md) | Multi-Agent Engineering |
