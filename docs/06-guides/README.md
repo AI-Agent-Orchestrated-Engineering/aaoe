@@ -18,3 +18,4 @@ rather than defining what is required.
 | [GUIDE-0006](0006-human-ai-collaboration.md) | Human–AI Collaboration |
 | [GUIDE-0007](0007-multi-agent-engineering.md) | Multi-Agent Engineering |
 | [GUIDE-0008](0008-implementation-reports.md) | Implementation Reports |
+| [GUIDE-0009](0009-architecture-decision-records.md) | Architecture Decision Records |
