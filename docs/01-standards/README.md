@@ -14,6 +14,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | [STD-0004](0004-shared-specifications.md) | Shared Specifications | Draft |
 | [STD-0005](0005-ux-first-engineering.md) | UX-First Engineering | Draft |
 | [STD-0006](0006-design-system-first-engineering.md) | Design System-First Engineering | Draft |
+| [STD-0007](0007-separation-of-identity-and-authorization.md) | Separation of Identity and Authorization | Draft |
 
 ## Statuses
 
