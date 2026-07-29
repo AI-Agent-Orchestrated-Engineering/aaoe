@@ -9,6 +9,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | ID | Title | Status |
 | --- | --- | --- |
 | [STD-0001](0001-specification-lifecycle.md) | Specification Lifecycle | Draft |
+| [STD-0002](0002-specification-driven-development.md) | Specification-Driven Development | Draft |
 
 ## Statuses
 
