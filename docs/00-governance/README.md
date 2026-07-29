@@ -20,6 +20,7 @@ Architecture Decision Records themselves are catalogued separately in the
 | [GV-0006](0006-discovery-acceptance-process.md) | Discovery Acceptance Process | Draft |
 | [GV-0007](0007-specification-governance.md) | Specification Governance | Draft |
 | [GV-0008](0008-versioning-and-evolution.md) | Versioning and Evolution | Draft |
+| [GV-0009](0009-knowledge-domains.md) | Knowledge Domains | Draft |
 
 ## Statuses
 
