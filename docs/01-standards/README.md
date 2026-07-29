@@ -12,6 +12,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | [STD-0002](0002-specification-driven-development.md) | Specification-Driven Development | Draft |
 | [STD-0003](0003-context-engineering.md) | Context Engineering | Draft |
 | [STD-0004](0004-shared-specifications.md) | Shared Specifications | Draft |
+| [STD-0005](0005-ux-first-engineering.md) | UX-First Engineering | Draft |
 
 ## Statuses
 
