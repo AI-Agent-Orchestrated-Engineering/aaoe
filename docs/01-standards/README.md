@@ -16,6 +16,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | [STD-0006](0006-design-system-first-engineering.md) | Design System-First Engineering | Draft |
 | [STD-0007](0007-separation-of-identity-and-authorization.md) | Separation of Identity and Authorization | Draft |
 | [STD-0008](0008-human-governed-engineering.md) | Human-Governed Engineering | Draft |
+| [STD-0009](0009-architecture-reviews.md) | Architecture Reviews | Draft |
 
 ## Statuses
 
