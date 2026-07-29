@@ -11,6 +11,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | [STD-0001](0001-specification-lifecycle.md) | Specification Lifecycle | Draft |
 | [STD-0002](0002-specification-driven-development.md) | Specification-Driven Development | Draft |
 | [STD-0003](0003-context-engineering.md) | Context Engineering | Draft |
+| [STD-0004](0004-shared-specifications.md) | Shared Specifications | Draft |
 
 ## Statuses
 
