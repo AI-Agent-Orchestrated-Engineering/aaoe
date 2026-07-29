@@ -13,3 +13,4 @@ rather than defining what is required.
 | [GUIDE-0001](0001-thinking-in-specifications.md) | Thinking in Specifications |
 | [GUIDE-0002](0002-working-with-ai.md) | Working with AI |
 | [GUIDE-0003](0003-writing-good-work-orders.md) | Writing Good Work Orders |
+| [GUIDE-0004](0004-architecture-reviews.md) | Architecture Reviews |
