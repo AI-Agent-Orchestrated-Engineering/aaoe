@@ -17,6 +17,7 @@ Architecture Decision Records themselves are catalogued separately in the
 | [GV-0003](0003-body-of-knowledge-governance.md) | Body of Knowledge Governance | Draft |
 | [GV-0004](0004-knowledge-lifecycle.md) | Knowledge Lifecycle | Draft |
 | [GV-0005](0005-evidence-standard.md) | Evidence Standard | Draft |
+| [GV-0006](0006-discovery-acceptance-process.md) | Discovery Acceptance Process | Draft |
 
 ## Statuses
 
