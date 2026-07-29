@@ -10,3 +10,4 @@ rather than defining what is required.
 | ID | Title |
 | --- | --- |
 | [GUIDE-0000](0000-introduction.md) | Introduction |
+| [GUIDE-0001](0001-thinking-in-specifications.md) | Thinking in Specifications |
