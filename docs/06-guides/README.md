@@ -11,3 +11,4 @@ rather than defining what is required.
 | --- | --- |
 | [GUIDE-0000](0000-introduction.md) | Introduction |
 | [GUIDE-0001](0001-thinking-in-specifications.md) | Thinking in Specifications |
+| [GUIDE-0002](0002-working-with-ai.md) | Working with AI |
