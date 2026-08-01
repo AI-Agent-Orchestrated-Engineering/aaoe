@@ -199,3 +199,14 @@ No section listed above restates a rule in its own words in place of the canonic
 4. **Short-term:** adopt the six navigation models in this report as the basis for the website's eventual sitemap — a distinct, future website-design Work Item, not undertaken here.
 5. **Medium-term:** add a lightweight synchronization checkpoint to Release Management (`OM-0005`) confirming derived navigation views remain consistent with any status change in the release being merged — mitigating Risk 1 without introducing new governance machinery.
 6. **Medium-term:** ensure every future website page carries a visible "this is a presentation of canonical content; see source" pointer, operationalizing Navigation Principle 3 visibly rather than leaving it purely architectural — mitigating Risk 5.
+
+---
+
+## Repository Record
+
+- **Branch:** `feature/IA-0001-information-architecture` (created from `release/v1.1`)
+- **Files created:** `reports/2026-08-01-information-architecture-assessment.md`
+- **Files modified:** none
+- **Commit:** `c82024936d3647520486adf8aa68848a1345e292` — "docs(architecture): assess information architecture"
+- **Timestamp:** 2026-08-01T22:55:00Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/60 (feature/IA-0001-information-architecture → release/v1.1)
