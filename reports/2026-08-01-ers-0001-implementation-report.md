@@ -81,7 +81,7 @@ None.
 
 ## Pull Request
 
-To be recorded after push — see Repository Record below.
+https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/63 (feature/ERS-0001-engineering-role-specification-standard → release/v1.1)
 
 ---
 
@@ -127,6 +127,6 @@ To be recorded after push — see Repository Record below.
 - **Branch:** `feature/ERS-0001-engineering-role-specification-standard` (created from `release/v1.1`)
 - **Files created:** `docs/01-standards/0013-engineering-role-specification-standard.md`, `reports/2026-08-01-ers-0001-implementation-report.md`
 - **Files modified:** `docs/01-standards/README.md`
-- **Commit:** *(recorded after commit — see below)*
-- **Timestamp:** *(recorded after commit — see below)*
-- **Pull Request:** *(recorded after creation — see below)*
+- **Commit:** `de2da9c5e450755a50fcdb9348e1a6dedc47fd7f` — "docs(ers): define engineering role specification standard"
+- **Timestamp:** 2026-08-01T23:30:19Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/63 (feature/ERS-0001-engineering-role-specification-standard → release/v1.1)
