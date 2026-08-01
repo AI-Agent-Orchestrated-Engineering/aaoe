@@ -20,3 +20,4 @@ rather than defining what is required.
 | [GUIDE-0008](0008-implementation-reports.md) | Implementation Reports |
 | [GUIDE-0009](0009-architecture-decision-records.md) | Architecture Decision Records |
 | [GUIDE-0010](0010-complete-end-to-end-example.md) | Complete End-to-End Example |
+| [GUIDE-0011](0011-engineering-recipes.md) | Engineering Recipes |
