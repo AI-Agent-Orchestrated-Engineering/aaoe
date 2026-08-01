@@ -75,4 +75,8 @@ But GV-0006's actual lifecycle is `Observation → Documented → Evidence Attac
 
 ## Repository Record
 
-*(This section is completed after commit — see below.)*
+- **Files created:** `reports/2026-08-01-discovery-assessment-candidate-concepts.md`
+- **Files modified:** none
+- **Branch:** `release/v1.1`
+- **Commit:** `34b6933f7ab6eb9f42978f6ad15dbbf3e19789cd` — "feat(discovery): assess conversation-driven engineering discoveries"
+- **Timestamp:** 2026-08-01T22:24:23Z
