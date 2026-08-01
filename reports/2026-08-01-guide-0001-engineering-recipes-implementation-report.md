@@ -87,7 +87,7 @@ None.
 
 ## Pull Request
 
-To be recorded after push — see Repository Record below.
+https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/64 (feature/GUIDE-0001-engineering-recipes → release/v1.1)
 
 ---
 
@@ -129,6 +129,6 @@ To be recorded after push — see Repository Record below.
 - **Branch:** `feature/GUIDE-0001-engineering-recipes` (created from `release/v1.1`)
 - **Files created:** `docs/06-guides/0011-engineering-recipes.md`, `reports/2026-08-01-guide-0001-engineering-recipes-implementation-report.md`
 - **Files modified:** `docs/06-guides/README.md`
-- **Commit:** *(recorded after commit — see below)*
-- **Timestamp:** *(recorded after commit — see below)*
-- **Pull Request:** *(recorded after creation — see below)*
+- **Commit:** `bb071557af8a48afceb3a7fa1fda86b0394523c4` — "docs(guides): introduce engineering recipes (GUIDE-0011)"
+- **Timestamp:** 2026-08-01T23:42:30Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/64 (feature/GUIDE-0001-engineering-recipes → release/v1.1)
