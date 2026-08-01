@@ -240,6 +240,6 @@ Evidence (spans Case Studies, Discoveries, Governance) · Traceability (spans al
 - **Files created:** `reports/2026-08-01-conceptual-architecture-map.md`
 - **Files modified:** none
 - **Branch:** `feature/AARCH-0002-conceptual-architecture-map` (created from `release/v1.1`)
-- **Commit:** *(recorded after commit — see below)*
-- **Timestamp:** *(recorded after commit — see below)*
-- **Pull Request:** *(recorded after creation — see below)*
+- **Commit:** `ef21cf49296a537d250bea29ec0766525fa6d1f1` — "docs(architecture): define conceptual architecture map"
+- **Timestamp:** 2026-08-01T22:41:36Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/59 (feature/AARCH-0002-conceptual-architecture-map → release/v1.1)
