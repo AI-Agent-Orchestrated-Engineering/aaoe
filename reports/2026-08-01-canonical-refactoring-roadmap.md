@@ -144,3 +144,14 @@ A successfully refactored Canonical is one where:
 5. **Traceability remains unbroken throughout** (GV-0002) — every changed or added artifact still traces to the evidence that justified it.
 6. **The advisory reports this Architecture Team produced are resolved, not left permanently ambiguous.** Each either results in an actual, governed Canonical change, or a documented decision not to make one — they do not linger indefinitely as merged-but-unactioned analysis.
 7. **No canonical knowledge was ever duplicated into a navigation, index, or website layer during the process** — the invariant IA-0001 and AARCH-0004 both established holds not just as an end state, but at every intermediate point of the migration.
+
+---
+
+## Repository Record
+
+- **Branch:** `feature/CR-0001-canonical-refactoring-roadmap` (created from `release/v1.1`)
+- **Files created:** `reports/2026-08-01-canonical-refactoring-roadmap.md`
+- **Files modified:** none
+- **Commit:** `ae112925b2d801ab8f1fca6abfc62c6cda2e1fa7` — "docs(planning): define canonical refactoring roadmap"
+- **Timestamp:** 2026-08-01T23:07:34Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/62 (feature/CR-0001-canonical-refactoring-roadmap → release/v1.1)
