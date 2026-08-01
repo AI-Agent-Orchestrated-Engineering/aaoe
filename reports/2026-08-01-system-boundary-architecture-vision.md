@@ -123,5 +123,5 @@ This section applies the boundary above; it does not decide inclusion, propose S
 - **Files created:** `reports/2026-08-01-system-boundary-architecture-vision.md`
 - **Files modified:** none
 - **Branch:** `release/v1.1`
-- **Commit:** *(recorded after commit — see below)*
-- **Timestamp:** *(recorded after commit — see below)*
+- **Commit:** `4f6eaf545f4b322921e84998c51f63cbd13457a3` — "docs(architecture): define AAOE system boundary and architecture vision"
+- **Timestamp:** 2026-08-01T22:35:35Z
