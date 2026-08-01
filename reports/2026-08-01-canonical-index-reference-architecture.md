@@ -153,3 +153,14 @@ One coherent capability, five distinct query shapes — no consumer requires the
 4. **Pilot against the narrowest, most concrete consumer first.** The Curator/Maintainer maintenance-queue view (§3) needs only primary fields and has the clearest, most bounded query shape — a better proving ground than MCP Servers or IDE Integrations, which would immediately want secondary fields the Canonical doesn't yet have.
 5. **Any future canonical-metadata expansion should go through Governance, not through the Index's implementers.** If Audience, Tags, or Prerequisites are later judged worth adding to source documents, that is a Canonical change like any other and belongs to GV-0006/0007, not to whoever eventually builds the Index.
 6. **Capture pilot experience as evidence before generalizing.** Once a narrow pilot exists, its results should become a Discovery before the Canonical Index is generalized into a Standard or formal Reference Architecture — the same evidence-first discipline this Architecture Team has applied throughout its prior work.
+
+---
+
+## Repository Record
+
+- **Branch:** `feature/AARCH-0004-canonical-index-architecture` (created from `release/v1.1`)
+- **Files created:** `reports/2026-08-01-canonical-index-reference-architecture.md`
+- **Files modified:** none
+- **Commit:** `5a013a37d1e289623f275c114273e749f6bdcafe` — "docs(architecture): define canonical index reference architecture"
+- **Timestamp:** 2026-08-01T23:01:22Z
+- **Pull Request:** https://github.com/AI-Agent-Orchestrated-Engineering/aaoe/pull/61 (feature/AARCH-0004-canonical-index-architecture → release/v1.1)
