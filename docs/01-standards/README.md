@@ -20,6 +20,7 @@ versioned, superseded, and retired — as canonical engineering guidance.
 | [STD-0010](0010-implementation-reports.md) | Implementation Reports | Draft |
 | [STD-0011](0011-ai-assisted-engineering.md) | AI-Assisted Engineering | Draft |
 | [STD-0012](0012-architecture-decision-records.md) | Architecture Decision Records | Draft |
+| [STD-0013](0013-engineering-role-specification-standard.md) | Engineering Role Specification Standard | Draft |
 
 ## Statuses
 
